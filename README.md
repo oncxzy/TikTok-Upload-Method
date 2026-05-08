@@ -62,13 +62,13 @@
 
 5\. After It Compiles Succesfully Copy The ```ffmpeg``` And ```imgs``` Folders To Your Clipboard
 
-6\. From The Source Code Folder Navigate To ```\\bin\\Release\\net8.0-windows\\win-x64\\publish\\```
+6\. From The Source Code Folder Navigate To ```\bin\Release\net8.0-windows\win-x64\publish\```
 
 7\. Paste The "ffmpeg" And "imgs" Folders REQUIRED OR IT WONT WORK
 
 
 
-8\. You Can Either Run "TikTok Upload Method.exe" Or (Reccomended) Move All The Files And Folders From The Current Folder (```\\bin\\Release\\net8.0-windows\\win-x64\\publish\\```) To A New Empty Folder.
+8\. You Can Either Run "TikTok Upload Method.exe" Or (Reccomended) Move All The Files And Folders From The Current Folder (```\bin\Release\net8.0-windows\win-x64\publish\```) To A New Empty Folder.
 
 
 9\. Then Run "TikTok Upload Method.exe"
