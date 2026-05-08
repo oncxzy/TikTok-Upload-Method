@@ -2,7 +2,7 @@
 
 
 
-1. Navigate To Releases Tab
+1\. Navigate To Releases Tab
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-1. Navigete To Releases Tab
+1\. Navigete To Releases Tab
 
 
 
@@ -46,7 +46,7 @@
 
 
 
-1. Clone Repository Or Download Source Code From Releases Tab
+1\. Clone Repository Or Download Source Code From Releases Tab
 
 
 
@@ -56,29 +56,29 @@
 
 3\. Make Sure You Have .NET 8.0+ From \[HERE](https://dotnet.microsoft.com/download/dotnet/8.0)
 
-4. Run ```dotnet publish -c Release -r win-x64``` In The Same Folder As The Source Code Thru \*\*Powershell Or Command Prompt\*\*
+4\. Run ```dotnet publish -c Release -r win-x64``` In The Same Folder As The Source Code Thru \*\*Powershell Or Command Prompt\*\*
 
 
 
 5\. After It Compiles Succesfully Copy The ```ffmpeg``` And ```imgs``` Folders To Your Clipboard
 
-6. From The Source Code Folder Navigate To ```\\bin\\Release\\net8.0-windows\\win-x64\\publish\\```
+6\. From The Source Code Folder Navigate To ```\\bin\\Release\\net8.0-windows\\win-x64\\publish\\```
 
-7. Paste The "ffmpeg" And "imgs" Folders \*\*REQUIRED OR IT WONT WORK\*\*
+7\. Paste The "ffmpeg" And "imgs" Folders \*\*REQUIRED OR IT WONT WORK\*\*
 
 
 
 8\. You Can Either Run "TikTok Upload Method.exe" Or (Reccomended) Move All The Files And Folders From The Current Folder (```\\bin\\Release\\net8.0-windows\\win-x64\\publish\\```) To A New Empty Folder.
 
 
-9. Then Run "TikTok Upload Method.exe"
+9\. Then Run "TikTok Upload Method.exe"
 
 
 ## NOTES:
 
 
 
-1. All Files Must Stay Together (For Every Install Method Whether Its Building Via Source Code, Running The Installer, Or Downloading The Portable Zip)
+1\. All Files Must Stay Together (For Every Install Method Whether Its Building Via Source Code, Running The Installer, Or Downloading The Portable Zip)
 
 
 
