@@ -6,7 +6,7 @@
 
 
 
-2\. Download "TikTok\_Method\_Installer\_x64.exe" (Installer Was Made From Inno Setup Compiler)
+2\. Download [TikTok_Method_Installer_x64.exe](https://github.com/oncxzy/TikTok-Upload-Method/releases/download/Release/TikTok_Method_Installer_x64.exe) (Installer Was Made From Inno Setup Compiler)
 
 
 
