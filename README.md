@@ -46,7 +46,7 @@
 
 
 
-1\. Clone Repository Or Download Source Code From Releases Tab
+1\. Clone Repository Or [Download Source Code From Releases Tab](https://github.com/oncxzy/TikTok-Upload-Method/archive/refs/tags/Release.zip)
 
 
 
