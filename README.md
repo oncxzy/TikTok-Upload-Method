@@ -26,7 +26,7 @@
 
 
 
-2\. Download "TikTok Upload Method.zip"
+2\. Download "TikTok Upload Method Portable ZIP.zip"
 
 
 
@@ -107,3 +107,4 @@
 
 8\. We STRONGLY Reccomend Using A High Quality Scenepack And Or Using Topaz Video Ai To Raise Your Videos Quality
 
+9\. We Do NOT Own Any Files In The ```ffmpeg``` Folder, All Files In That Folder Are From ```https://www.gyan.dev/ffmpeg/builds/``` And We Do NOT Take Ownership For Any Copyright Issues
