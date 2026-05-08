@@ -50,13 +50,13 @@
 
 
 
-2\. CD Into Source Code Folder Thru \*\*Powershell Or Command Prompt\*\*
+2\. CD Into Source Code Folder Thru Powershell Or Command Prompt
 
 
 
 3\. Make Sure You Have .NET 8.0+ From \[HERE](https://dotnet.microsoft.com/download/dotnet/8.0)
 
-4\. Run ```dotnet publish -c Release -r win-x64``` In The Same Folder As The Source Code Thru \*\*Powershell Or Command Prompt\*\*
+4\. Run ```dotnet publish -c Release -r win-x64``` In The Same Folder As The Source Code Thru Powershell Or Command Prompt
 
 
 
@@ -64,7 +64,7 @@
 
 6\. From The Source Code Folder Navigate To ```\\bin\\Release\\net8.0-windows\\win-x64\\publish\\```
 
-7\. Paste The "ffmpeg" And "imgs" Folders \*\*REQUIRED OR IT WONT WORK\*\*
+7\. Paste The "ffmpeg" And "imgs" Folders REQUIRED OR IT WONT WORK
 
 
 
@@ -86,7 +86,7 @@
 
 
 
-3\. This Method Is \_\_NOT\_\_ Like The Popular "FFmpeg Upload Method" So Your Video Will \_\_NOT\_\_ Be Slowed On Pc
+3\. This Method Is NOT Like The Popular "FFmpeg Upload Method" So Your Video Will NOT Be Slowed On Pc
 
 
 
