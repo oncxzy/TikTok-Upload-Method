@@ -26,7 +26,7 @@
 
 
 
-2\. Download "TikTok Upload Method Portable ZIP.zip"
+2\. Download "TikTok_Upload_Method_Portable.zip"
 
 
 
