@@ -26,7 +26,7 @@
 
 
 
-2\. Download "TikTok_Upload_Method_Portable.zip"
+2\. Download [TikTok_Method_Portable.zip](https://github.com/oncxzy/TikTok-Upload-Method/releases/download/Release/TikTok_Method_Portable.zip)
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-3\. Make Sure You Have .NET 8.0+ From \[HERE](https://dotnet.microsoft.com/download/dotnet/8.0)
+3\. Make Sure You Have .NET 8.0+ From [HERE](https://dotnet.microsoft.com/download/dotnet/8.0)
 
 4\. Run ```dotnet publish -c Release -r win-x64``` In The Same Folder As The Source Code Thru Powershell Or Command Prompt
 
