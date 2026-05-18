@@ -107,4 +107,7 @@
 
 8\. We STRONGLY Reccomend Using A High Quality Scenepack And Or Using Topaz Video Ai To Raise Your Videos Quality
 
+
 9\. We Do NOT Own Any Files In The ```ffmpeg``` Folder, All Files In That Folder Are From ```https://www.gyan.dev/ffmpeg/builds/``` And We Do NOT Take Ownership For Any Copyright Issues
+
+10\. The Caption Automatically Adds ```Upload Method: @oncxzy``` At The End Of Your Caption Because I Like To Watch Peoples Videos That Used My Upload Method. If You Dont Want This, Remove It Via The Source Code, As I Forgot To Add An In-App Setting/Switch For It.
